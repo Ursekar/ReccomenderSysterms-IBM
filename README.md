@@ -8,7 +8,7 @@ In order to determine which articles to show to each user, I will be performing 
 **Tasks Performed**:  
 The project is divided into the following tasks;  
 
-I. <u>Exploratory Data Analysis</u>:  
+I. <ins>Exploratory Data Analysis</ins>:  
 Before making recommendations of any kind, I will need to explore the data I am working with for the project. I've Dived in to see what I can find. There are some basic, required questions to be answered about the data I am working with throughout the rest of the notebook.
 
 II. Rank Based Recommendations:  

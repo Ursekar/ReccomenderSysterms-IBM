@@ -5,10 +5,10 @@ For this project I will analyze the interactions that users have with articles o
 Though the above dashboard is just showing the newest articles, I could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.  
 In order to determine which articles to show to each user, I will be performing a study of the data available on the IBM Watson Studio platform. One can create one's own account to become a part of their community, and get a better understanding of their data by creating an account on the platform here.
 
-**Tasks Performed**:
+**Tasks Performed**:  
 The project is divided into the following tasks;  
 
-I. Exploratory Data Analysis:  
+I. <u>Exploratory Data Analysis</u>:  
 Before making recommendations of any kind, I will need to explore the data I am working with for the project. I've Dived in to see what I can find. There are some basic, required questions to be answered about the data I am working with throughout the rest of the notebook.
 
 II. Rank Based Recommendations:  
